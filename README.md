@@ -23,8 +23,12 @@ Projenin temel işleyiş mekanizması şu adımlara dayanır:
 * **Kontrol Edilen LED (Çıkış):** `PE9` / `LD3_Pin` (GPIO_Output)
 * *Not: E portundaki diğer LED'ler proje başlangıcında kapalı (RESET) durumuna getirilmiştir.*
 
-## 🚀 Kurulum ve Kullanım
 
-1. Bu depoyu bilgisayarınıza klonlayın:
-   ```bash
-   git clone [https://github.com/KULLANICI_ADINIZ/STM32-EXTI-Button-Interrupt.git](https://github.com/KULLANICI_ADINIZ/STM32-EXTI-Button-Interrupt.git)
+### 👨‍💻 Geliştirici / Developer
+<p align="center">
+  <b>Yavuz ÇANDIR</b>
+  <br>
+  <a href="https://github.com/YavuzCandirr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-YavuzCandirr-black?logo=github" alt="GitHub">
+  </a>
+</p>
