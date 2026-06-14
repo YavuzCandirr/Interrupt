@@ -1,4 +1,4 @@
-# STM32 Dış Kesme (EXTI) 
+# Dış Kesme (EXTI) 
 
 Bu proje, STM32 mikrodenetleyicilerinde **Dış Kesme (External Interrupt - EXTI)** yapısının nasıl kullanılacağını gösteren temel bir uygulamadır.
 
